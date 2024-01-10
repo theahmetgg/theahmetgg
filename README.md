@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Ahmet Gülmez</h1>
+<h1 align="center">Hi 👋, I'm Ahmet Gülmez</h1>
 
 - 🌱 I’m currently learning *Javascript* & *React.js*
 
