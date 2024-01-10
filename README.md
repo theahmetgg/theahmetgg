@@ -6,12 +6,6 @@
 
 - 📫 How to reach me **ahmetttgulmez@gmail.com**
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/theahmetgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet-gülmez" height="30" width="40" /></a>
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theahmetgg&label=Profile%20views&color=b40e1e&style=plastic" alt="ahmetgulmez" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theahmetgg" alt="ahmetgulmez" /></a> </p>
