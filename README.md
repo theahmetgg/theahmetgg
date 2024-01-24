@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet Gülmez</h1>
 
-- 🌱 I’m currently learning *Javascript* & *React.js*
+- 🌱 I’m currently learning *Typescript* & *React.js*
 
 - 👨‍💻 You can find my portfolio at [ahmetgulmez.com.tr](https://ahmetgulmez.com.tr/)
 
